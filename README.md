@@ -1,6 +1,41 @@
+# 🎬 Movie Upload Website
+
+A modern full-stack web app built with **Next.js**, **Prisma**, and **Tailwind CSS**, allowing users to **upload**, **view**, **edit**, and **delete** movie entries.
+
+---
+
+## 🚀 Features
+
+- ✅ Upload movies with title, description, and image URL
+- ✅ View all uploaded movies in a responsive card layout
+- ✅ Edit and delete movie entries
+- ✅ Clean and modern UI styled with Tailwind CSS
+- ✅ Data management via Prisma (PostgreSQL or other supported DBs)
+
+---
+
+## 🛠 Tech Stack
+
+- **Frontend:** [Next.js App Router](https://nextjs.org/docs/app/building-your-application/routing)
+- **Styling:** [Tailwind CSS](https://tailwindcss.com/)
+- **Database:** [Prisma ORM](https://www.prisma.io/)
+- **Forms & Server Actions:** Next.js Server Actions
+
+---
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
+
+
+## 📦 Installation
+
+1. **Clone the repo**
+   ```bash
+   git clone https://github.com/your-username/movie-upload-app.git
+   cd movie-upload-app
+
 
 First, run the development server:
 
